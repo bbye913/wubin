@@ -1,0 +1,19 @@
+{
+  "name": "wubin",
+  "private": true,
+  "description": "WuBin's packages.",
+  "keywords": [
+    "wubin",
+    "吴斌"
+  ],
+  "homepage": "https://github.com/bbye913/wubin/#readme",
+  "bugs": {
+    "url": "https://github.com/bbye913/wubin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbye913/wubin.git"
+  },
+  "author": "WuBin <bbye913@gmail.com> (https://wubin.com/)",
+  "packageManager": "yarn@3.1.1"
+}
